@@ -1,3 +1,11 @@
 {
-  "welcome_text":"Hellot Niggas"
+  "welcome_text":"Hellot Niggas",
+  "users":[
+    {
+      "name":"Shivam"
+    },
+    {
+      "name":"Garg"
+    }
+  ]
 }
